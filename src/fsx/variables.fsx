@@ -2,7 +2,7 @@
 
 let myFloat = 3.
 
-let myString = "Banana"
+let myString = "Hello from F#"
 
 let myExplicitFloat:float = 2
 
