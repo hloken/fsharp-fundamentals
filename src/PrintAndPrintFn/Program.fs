@@ -7,7 +7,9 @@ printfn "%A" a
 // Using System.Console
 System.Console.WriteLine(a)
 
-//
+// Reading input from console
+open System
 printf "Enter your command human:"
-let input = System.Console.ReadLine()  // read input from console
+let input = Console.ReadLine()  // read input from console
 printfn "Your command is: %A" input
+
