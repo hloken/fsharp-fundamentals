@@ -10,9 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51266ab0-bba8-4116-9df3-17969b19b878" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demo-cli/demo-cli.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/demo-cli/demo-cli.fsproj" afterDir="false" />
-    </list>
+    <list default="true" id="51266ab0-bba8-4116-9df3-17969b19b878" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684140019590</updated>
-      <workItem from="1684140020853" duration="3052000" />
+      <workItem from="1684140020853" duration="8931000" />
     </task>
     <servers />
   </component>

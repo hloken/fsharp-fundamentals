@@ -11,28 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51266ab0-bba8-4116-9df3-17969b19b878" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.fsharp-fundamentals.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.fsharp-fundamentals.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.fsharp-fundamentals.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.idea.fsharp-fundamentals.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.src/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.src/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.src/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.src/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EntryPoint/Program.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrintAndPrintf/PrintAndPrintf.fsproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrintAndPrintf/Program.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-vscode/.idea/.idea.demo-vscode.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-vscode/.idea/.idea.demo-vscode.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-vscode/.idea/.idea.demo-vscode.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-vscode/.idea/.idea.demo-vscode.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fsx/script.fsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-cli/cli.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/EntryPoint/EntryPoint.fsproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/square.fsx" beforeDir="false" afterPath="$PROJECT_DIR$/fsx/square.fsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuff/Library.fs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuff/stuff.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/demo-cli/demo-cli.fsproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/dot-net-dictionary.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/functional-composite-data-types" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/records.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/strings.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/strings_StrinbBuilder.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/strings_interpolated_strings.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/strings_multiline.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/strings_sprintf.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/strings_verbatim_and_triple_quoted.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/tuples.fsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fsx/unit.fsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.fsharp-fundamentals/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.fsharp-fundamentals/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.fsharp-fundamentals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.fsharp-fundamentals/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.src/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,30 +42,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\hal\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\hal\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\hal\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\hal\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\hal\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\hal\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.PrintAndPrintf">
     <configuration name="EntryPoint" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -157,6 +151,8 @@
       <option name="presentableId" value="Default" />
       <updated>1684140019590</updated>
       <workItem from="1684140020853" duration="2747000" />
+      <workItem from="1685285948563" duration="1207000" />
+      <workItem from="1685542984851" duration="3637000" />
     </task>
     <servers />
   </component>
